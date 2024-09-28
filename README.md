@@ -1,12 +1,28 @@
-<img src="https://user-images.githubusercontent.com/67501529/201539219-015ba149-9403-44fe-93bf-17e1c2ed85ec.png" alt="Atri Rathore Banner" width="100%">
+<img src="https://github.com/Rathoreatri03/Rathoreatri03/blob/965c2f131858a0ea5351fda209120b58282fd149/Banner.png" alt="Atri Rathore Banner" width="100%">
 
-# Hi, I'm Atri Rathore 👋
+# I'm Er. Atri Rathore 👋
 
 ### 🚀 Engineer | Innovator | Explorer | AI Enthusiast
 
 I'm a **Computer Science** student specializing in **AI and ML** with an insatiable hunger for exploring new domains and pushing technological boundaries. I've been actively engaged in building projects that solve **real-world problems**, ranging from autonomous drones to accident detection systems. 
 
 My journey is fueled by **creativity**, **discipline**, and a hands-on approach to technology!
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -36,22 +52,6 @@ Designed a device to provide hormone readings for medical professionals using **
 - Won the **Best Freshers Award** at Vihaan 6.0 among 400+ teams.
 - **Published a Book Chapter** in "Hybrid Metal Additive Manufacturing Technology and Application (2023)."
 - Working on the **RoboCop** and **G.U.A.R.D.** real-life problem-solving projects.
-
----
-
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
