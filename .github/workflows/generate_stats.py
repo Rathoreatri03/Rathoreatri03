@@ -32,7 +32,7 @@ BORDER = "#00ff66"
 
 # ── 1. GraphQL ─────────────────────────────────────────────────────────────────
 QUERY = """
-query($login: String!) {
+query($login: String!, $types: [RepositoryContributionType!]) {
   user(login: $login) {
     name
     followers { totalCount }
@@ -40,7 +40,7 @@ query($login: String!) {
     issues(states: [OPEN, CLOSED]) { totalCount }
     repositoriesContributedTo(
       first: 1
-      contributionTypes: [COMMIT, PULL_REQUEST, REPOSITORY, REVIEW]
+      contributionTypes: $types
     ) { totalCount }
     repositories(
       first: 100
@@ -63,7 +63,13 @@ query($login: String!) {
 print(f"[1/4] Fetching GraphQL data for {USERNAME}...")
 r = requests.post(
     "https://api.github.com/graphql",
-    json={"query": QUERY, "variables": {"login": USERNAME}},
+    json={
+        "query": QUERY, 
+        "variables": {
+            "login": USERNAME,
+            "types": ["COMMIT", "PULL_REQUEST", "REPOSITORY", "REPOSITORY_REVIEW"]
+        }
+    },
     headers=GQL_HEADERS,
     timeout=30,
 )
