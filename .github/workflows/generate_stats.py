@@ -67,7 +67,7 @@ r = requests.post(
         "query": QUERY, 
         "variables": {
             "login": USERNAME,
-            "types": ["COMMIT", "PULL_REQUEST", "REPOSITORY", "REPOSITORY_REVIEW"]
+            "types": ["COMMIT", "PULL_REQUEST", "REPOSITORY", "PULL_REQUEST_REVIEW"]
         }
     },
     headers=GQL_HEADERS,
