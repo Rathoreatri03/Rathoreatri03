@@ -1,84 +1,151 @@
-<img src="https://github.com/Rathoreatri03/Rathoreatri03/blob/965c2f131858a0ea5351fda209120b58282fd149/Banner.png" alt="Atri Rathore Banner" width="100%">
+<div align="center">
 
-# I'm Er. Atri Rathore 👋
+<img src="https://github.com/Rathoreatri03/Rathoreatri03/blob/965c2f131858a0ea5351fda209120b58282fd149/Banner.png" width="100%" alt="Atri Rathore" />
 
-### 🚀 Engineer | Innovator | Explorer | AI Enthusiast
+<br/>
 
-I'm a **Computer Science** student specializing in **AI and ML** with an insatiable hunger for exploring new domains and pushing technological boundaries. I've been actively engaged in building projects that solve **real-world problems**, ranging from autonomous drones to accident detection systems. 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Er.+Atri+Rathore;AI+Architect+%26+Computer+Vision+Engineer;Building+Autonomous+Systems+%26+Neural+Agents;LangChain+%7C+YOLOv8+%7C+PyTorch+%7C+OpenCV;8%2B+Patents+%7C+Hackathon+Champion+%F0%9F%8F%86" alt="Typing" />
 
-My journey is fueled by **creativity**, **discipline**, and a hands-on approach to technology!
+<br/><br/>
 
----
+<a href="https://rathoreatri03.github.io/Portfolio_website/"><img src="https://img.shields.io/badge/-%F0%9F%A4%96%20Live%20Portfolio-00FF66?style=for-the-badge&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/rathoreatri03/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Rathoreatri03"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://res.cloudinary.com/dxh9tugzx/image/upload/v1734172167/Atri_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-FF6B35?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+<a href="https://res.cloudinary.com/dxh9tugzx/video/upload/v1734293129/Visume_io0vmq.mp4"><img src="https://img.shields.io/badge/-Video%20Resume-9B59B6?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="mailto:rathoreatri03@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 ---
 
-## 🔭 Current Projects
-### 🚁 [RoboCop](https://github.com/Rathoreatri03)
-An autonomous drone system aimed at improving **highway safety**. I'm working on **ML model training**, **GPS integration**, and **2D design** in collaboration with the Aerospace Department at Chandigarh University.
+## 👋 About Me
 
-### 🛡️ [G.U.A.R.D.](https://github.com/Rathoreatri03)
-A global **accident detection and prediction system** that ensures road safety through real-time monitoring. Leading the team as the **Team Leader**, I integrate hardware and software to create a seamless system. Won the **Best IEEE Award** at Vihaan 007!
+I'm a **Computer Science student at Chandigarh University**, specializing in **AI, Machine Learning & Computer Vision**. I build intelligent systems that bridge research and real-world impact — from autonomous drones to medical diagnostics to serverless AI agents.
 
-### 🎮 [OCG: Object Control via Gestures](https://github.com/Rathoreatri03)
-This system allows controlling objects through **hand gestures**, like turning on/off a fan or adjusting its speed. Worked on **dataset creation** and **Arduino/Python integration**. Showcased at Chandigarh University as a semester mini-project.
+- 🔭 Currently scaling **RoboCop** & **G.U.A.R.D.** to production
+- 🤖 Built **DODO** — my custom AI assistant, live on my portfolio
+- 📑 **8+ Patents** filed with Govt. of India — 4+ approved
+- 🏆 Won **1st place** at Ctrl+Alt+Hack 2025 (NSUT Delhi, 250+ teams)
+- 🌱 Deep in **LangGraph · RAG · Agentic AI** architectures
+- 📬 Reach me at **rathoreatri03@gmail.com**
 
-### 🧪 [Mycofibre: Sustainable Material Innovation](https://github.com/Rathoreatri03)
-Developing sustainable materials using **hemp fiber**, **chitosan**, and other alternatives to traditional rubber and plastics. This project was showcased in various hackathons, including **Bihar Innovation Challenge** and **Vihaan 6.0**.
+---
 
-### 📊 [Body Hormone Analyzer (BHA)](https://github.com/Rathoreatri03)
-Designed a device to provide hormone readings for medical professionals using **biosensors**. Showcased as the **group project of the semester**.
+## ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,git,linux,fastapi,arduino,raspberrypi,blender,github,vscode,bash&theme=dark&perline=7" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,cloudflare,nodejs,figma&theme=dark&perline=7" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logoColor=00FF66)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🌕 **AstroTerra** | Lunar boulder detection for safe landing site selection | `PyTorch` `CV` `Space AI` | [![](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/Rathoreatri03/Moon_Creator) |
+| 🛡️ **G.U.A.R.D** | Real-time accident detection & emergency response ecosystem | `YOLOv8` `Sensor Fusion` `IoT` | [![](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/Rathoreatri03/G.U.A.R.D) |
+| 🕶️ **O.C.G** | Hands-free object control via eye-tracking & gestures | `MediaPipe` `Arduino` `CV` | [![](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/Rathoreatri03/Object-Detection-Glasses-OCG-) |
+| 🚁 **RoboCop** | Autonomous highway surveillance drone platform | `Avionics` `Edge AI` `GPS` | [![](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/Rathoreatri03/Robocop) |
+| 🧬 **Murphy Systum** | Multi-disease AI diagnostics (brain tumor + cancer) | `Deep Learning` `Medical AI` | [![](https://img.shields.io/badge/-Demo-00FF66?style=flat-square)](https://garvkumar68.github.io/Murphy-System/) |
+| 💊 **LifeMatrix** | Hospital patient vitals monitoring with AI triage | `Biosensors` `Healthcare AI` | — |
+
+</div>
 
 ---
 
 ## 🏆 Achievements
-- Published **5+ research papers** in AI and sustainable technologies.
-- Filled **8+ patents**, with **4+ already approved** by the Indian Government.
-- Secured **5th rank** in Rajasthan's biggest hackathon **HIS** (2024).
-- **Winner of Think'N'Green Hackathon** (2024).
-- Won the **Best Freshers Award** at Vihaan 6.0 among 400+ teams.
-- **Published a Book Chapter** in "Hybrid Metal Additive Manufacturing Technology and Application (2023)."
-- Working on the **RoboCop** and **G.U.A.R.D.** real-life problem-solving projects.
+
+<div align="center">
+
+| 🥇 | Event | Result |
+|---|---|---|
+| 🏆 | **Ctrl+Alt+Hack 2025 — NSUT Delhi** | 🥇 1st Place · 250+ teams |
+| 🎯 | **INNOV8 — Jaipur** | Top 5 Finalist · 700+ teams |
+| 🏅 | **VIHAAN 007** | Best IEEE Award (G.U.A.R.D) |
+| 🔟 | **Code Wizard 2025 — SRM Delhi** | Top 10 · 400+ teams |
+| 🥈 | **HIS 2.0 — Rajasthan** | 5th Rank · RoboCop |
+| 🌿 | **Think'N'Green 2024** | Grand Winner · Mycofibre |
+| 🌱 | **Bihar Innovation Challenge 2024** | Top 25 Teams |
+| ⚡ | **VIHAAN 6.0** | Best Freshers Award · 400+ teams |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Atri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rathoreatri03&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rathoreatri03&layout=compact&theme=tokyonight)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rathoreatri03&show_icons=true&count_private=true&theme=github_dark&bg_color=0d1117&border_color=00ff66&title_color=00ff66&text_color=c9d1d9&icon_color=00ff66">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rathoreatri03&show_icons=true&count_private=true&theme=github_dark&bg_color=0d1117&border_color=00ff66&title_color=00ff66&text_color=c9d1d9&icon_color=00ff66" height="160" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathoreatri03&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&border_color=00ff66&title_color=00ff66&text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathoreatri03&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&border_color=00ff66&title_color=00ff66&text_color=c9d1d9" height="160" />
+</picture>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Rathoreatri03&theme=github-dark-blue&background=0d1117&border=00ff66&stroke=00ff66&ring=00ff66&fire=ff6b35&currStreakNum=ffffff&sideNums=00ff66&currStreakLabel=00ff66&sideLabels=888888&dates=666666" height="130" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathoreatri03&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area=true&area_color=003311&hide_border=false&border_color=00ff66&title_color=00ff66" width="98%" />
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rathoreatri03&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 🌱 I’m currently learning
-- Advanced **ML Model Training** for real-world applications.
-- Enhancing my work on **drone technologies** under the Aerospace Department at Chandigarh University.
+## 📑 Research & IP
+
+- 📖 **Book Chapter** — *Printing a Sustainable Future*, CRC Press 2023 · [Read →](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003406488-8/printing-sustainable-future-jagdeep-kaur-atri-rathore-tarveen-kaur-prabal-batra)
+- 🔬 **Patent #202311054420** — Organic 3D Filament from food waste ✅ Approved
+- 🍄 **Patent #202311048967** — Mycofibre Composite biodegradable textile ✅ Approved
+- 🛡️ **Patent #202311054397** — AI-Enabled Tracking Security System ✅ Approved
+- 📝 **5+ Research Papers** in international journals
 
 ---
 
-## 🎯 What I’m up to next
-- Scaling up **RoboCop** and **G.U.A.R.D.** to production-level.
-- Exploring advanced **AI-powered accident detection** and **response systems**.
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=rathoreatri03%40lab%20%7C%20KERNEL%3A%20X-Matrix_64%20%7C%20STATUS%3A%20OPTIMAL&fontSize=12&fontColor=00ff66&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathoreatri03/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rathoreatri03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathoreatri@gmail.com)
-
----
-
-**"Innovation is at the heart of my journey, and the future holds endless possibilities!"** 🌟
+</div>
